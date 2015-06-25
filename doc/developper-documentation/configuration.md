@@ -3,7 +3,7 @@
 ## Configuration
 
 BackBee CMS is powerful but highly configurable.
-In this section, all the available configuration is broken down by the key (e.g. doctrine) that defines each possible section of your application configuration.
+In this section, all the available configurations are broken down by the key (e.g. doctrine) that defines each possible section of your application configuration.
 
 ### Bootstrap configuration (bootstrap.yml)
 

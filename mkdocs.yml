@@ -16,6 +16,9 @@ pages:
         - 'Installation': 'developper-documentation/installation.md'
         - 'Architecture': 'developper-documentation/architecture.md'
         - 'Configuration': 'developper-documentation/configuration.md'
+        - 'Events': 'developper-documentation/events.md'
+        - 'Class Content events': 'developper-documentation/ClassContentEvent.md'
+        - 'Security': 'developper-documentation/security.md'
     - 'Cookbooks':
         - 'Create new commands': 'developper-documentation/cookbooks/create_new_commands.md'
         - 'Customize error pages': 'developper-documentation/cookbooks/customize_error_pages.md'
